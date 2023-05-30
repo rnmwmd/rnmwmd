@@ -1,5 +1,3 @@
 ### Hi, it's Ryan! 
 
-I am a web developer currently [jamming](https://jamstack.wtf/) with my favorite technologies including Deno🦕 , Vite:zap: , Lume:fire: , A-Frame, & P5js to construct creative, efficient, and accessible web experiences within the outdoor industry.
-
-<em>Ryan McDonald - Web Developer @ JAX Mercantile Co.</em>
+I'm [jamming](https://jamstack.wtf/) with my favorite technologies including Deno🦕 , Lume:fire: , A-Frame, & P5js to construct creative, efficient, and accessible web experiences. As an avid outdoor enthusiast, I am currently working in ecommerce within the outdoor gear retail industry @ JAX Mercantile Co.
